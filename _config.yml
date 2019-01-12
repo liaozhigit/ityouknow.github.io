@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: liaozhigit/liaozhigit.github.io
 github_url: https://github.com/liaozhigit
-cnblog_url: http://www.cnblogs.com/ityouknow
+cnblog_url: http://www.cnblogs.com/liaozhigit
 url: http://liaozhi.xinting.xin/
-enforce_ssl: ityouknow.com
+enforce_ssl: liaozhigit.com
 
 ## Gem
 plugins:
