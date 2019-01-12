@@ -12,6 +12,7 @@ tags: [share]
 直接扫描二维码关注“IT轻社区”，此公号内回复对应的关键字
 
 ![](http://www.itmind.net/assets/images/itmind.jpg)  
+![](https://github.com/liaozhigit/liaozhigit.github.io/blob/master/assets/images/lz.jpg)
 
 
 - 01、回复"**我要健康**"，获取程序员健康、内涵大礼包！  
